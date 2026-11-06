@@ -16,3 +16,11 @@ __pycache__/
 # IDE settings
 .vscode/
 .idea/
+
+# Dependencies & build
+node_modules/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
